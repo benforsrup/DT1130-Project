@@ -1,5 +1,5 @@
 # DT1130-Project
-Group project in the course DT1130 Spektral transforms. 
+Group project in the course DT1130 Spektral transforms. Made with Nils Ekenbäck 
 
 Project description was as followed (in Swedish):
 
@@ -34,4 +34,4 @@ es = el + ev / |el + ev|
 ![Image description](Picture1.png)
 
 ## Built With
-* [Matlab
+* Matlab
